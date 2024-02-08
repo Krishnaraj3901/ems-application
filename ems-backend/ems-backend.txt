@@ -1,0 +1,13 @@
+
+
+                              EMS-BACKEND
+                    ------------------------------
+      
+    1.create a new data base in moongodb compass and create a new collection named as employees
+    2.create a new folder named as ems-backend 
+    3.create a package.json file - npm init -y
+    4.install express,cors, mongoose -  npm i express cors mongoose
+    5.create index.js file
+    6.create a folder named as services
+    7.create a db.js file inside the service folder(for connecting node and mongodb)
+    8.create a logic.js folder inside services(for implementing all the logics)

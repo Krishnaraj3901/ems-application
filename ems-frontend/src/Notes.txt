@@ -1,0 +1,14 @@
+
+
+                        EMS FrontEnd
+              ----------------------------------------------
+  
+  1.Create a new project,clear all unwanted codes
+  2.Install 3rd party packages
+        1.font awesome
+        2.Googlefonts
+        3.react bootstrap/md bootstrap
+        4.bootswatch
+  3.create components needed
+  4.setup path for components
+        -react-router-dom - npm i react-router-dom
